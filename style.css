@@ -17,6 +17,7 @@ body {
     display: grid;
     grid-template-rows: 1fr 6fr;
     grid-template-columns: 1fr 5fr;
+    max-width: fit-content;
 }
 
 /*Styles for the left bar*/
